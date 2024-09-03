@@ -1,0 +1,33 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-navbar {
+  background-color: #423e37;
+}
+
+nav a {
+  color: #edebd7 !important;
+}
+
+.btn-search,
+.btn-search:hover {
+  background-color: #e3b23c;
+  color: #edebd7;
+}
+
+.carousel-caption {
+  background-color: #000;
+  opacity: 0.7;
+}
+
+.card .btm{
+  border: 1px solid black;
+  display: block;
+  background-color: white;
+  color: blue;
+  padding: 10px 0;
+  border-radius: 8px;
+  text-decoration: none;
+  text-align: center;
+}
