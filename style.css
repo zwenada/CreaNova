@@ -21,9 +21,7 @@ nav a {
   opacity: 0.7;
 }
 
-
-
-.card .btn{
+.card .btn {
   border: 1px solid black;
   display: block;
   background-color: white;
@@ -36,6 +34,28 @@ nav a {
 
 ul {
   list-style-type: none;
-  padding-left: 0; 
-  margin-left: 0;  
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.title {
+  text-align: center;
+}
+
+.wrapper {
+  width: 90%;
+  margin: 2px auto;
+  padding: 20px;
+}
+
+.title-text {
+  line-height: 2em;
+  text-indent: 30px;
+  text-align: left;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
 }
