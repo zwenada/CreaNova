@@ -59,3 +59,15 @@ ul {
   height: 150px;
   border-radius: 50%;
 }
+
+.btm{
+  display: block;
+  text-align: center;
+  border: #423e37 solid;
+  color: black;
+  padding: auto;
+  border-radius: 8px;
+  text-decoration: none;
+  width: 200px;
+  margin: auto;
+}
